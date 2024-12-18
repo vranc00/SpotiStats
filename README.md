@@ -5,7 +5,7 @@
 ### Descrizione
 
 Questo progetto propone un'analisi di dati estratti da un dataset Kaggle che raccoglie testi e caratteristiche audio di oltre 18.000 canzoni.
-Sono state selezionate e normalizzate soltanto le canzoni con testi in lingua inglese; su di esse viene effettuata un'analisi delle frequenze delle parole, della somiglianza tra i testi e un`operazione di clustering basata su alcune caratteristiche audio. I risultati sono disponibili su una web app Streamlit con cui l`utente può interagire.
+Sono state selezionate e normalizzate soltanto le canzoni con testi in lingua inglese; su di esse viene effettuata un'analisi delle frequenze delle parole, della somiglianza tra i testi e un'operazione di clustering basata su alcune caratteristiche audio. I risultati sono disponibili su una web app Streamlit con cui l`utente può interagire.
 
 ### Istruzioni per l'uso
 
