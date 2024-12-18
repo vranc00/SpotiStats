@@ -1,6 +1,6 @@
 # SpotiStats
 
-## Una web app per l`analisi di un dataset di canzoni
+## Una web app per l'analisi di un dataset di canzoni
 
 ### Descrizione
 
