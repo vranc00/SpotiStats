@@ -1,0 +1,9 @@
+collections
+matplotlib
+nltk
+numpy
+pandas
+scipy
+sklearn
+streamlit
+string
